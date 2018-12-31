@@ -1,1 +1,1 @@
-﻿# Documentation
+﻿# Official XCOYNZ Documentation
